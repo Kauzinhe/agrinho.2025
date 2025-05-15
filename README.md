@@ -1,9 +1,68 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vantagens da Conexão do Campo com a Cidade</title>
+    <style type="text/css">
+        /* Reset básico para margens e fontes */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 40px;
+            line-height: 1.6;
+        }
+
+        /* Título principal */
+        h2 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 25px;
+            font-size: 2rem;
+        }
+
+        /* Parágrafos */
+        p {
+            max-width: 700px;
+            margin: 0 auto 20px auto;
+            font-size: 1.1rem;
+        }
+
+        /* Lista de vantagens */
+        ul {
+            max-width: 700px;
+            margin: 0 auto 30px auto;
+            padding-left: 20px;
+        }
+
+        /* Itens da lista */
+        li {
+            margin-bottom: 15px;
+            font-size: 1.05rem;
+        }
+
+        /* Destaque em negrito */
+        strong {
+            color: #2980b9;
+        }
+
+        /* Responsividade simples */
+        @media (max-width: 768px) {
+            body {
+                margin: 20px;
+            }
+
+            h2 {
+                font-size: 1.5rem;
+            }
+
+            p, ul {
+                max-width: 100%;
+                padding: 0 10px;
+            }
+        }
+    </style>
 </head>
 <body>
     <h2>Vantagens da Conexão do Campo com a Cidade</h2>
